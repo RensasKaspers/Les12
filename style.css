@@ -1,7 +1,3 @@
-footer{
-    background-color: aqua;
-    height: 100px;
-}
 #cell1{background-color: blue;}
 #cell2{background-color: pink;}
 #cell3{background-color: gray;}
@@ -26,3 +22,4 @@ footer{
 #cell10 p{background-color: palevioletred;}
 #cell11 p{background-color: lavender;}
 #cell12 p{background-color: darkcyan;}
+footer{ background-color: aqua;height: 100px;}
