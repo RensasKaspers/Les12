@@ -1,0 +1,28 @@
+footer{
+    background-color: aqua;
+    height: 100px;
+}
+#cell1{background-color: blue;}
+#cell2{background-color: pink;}
+#cell3{background-color: gray;}
+#cell4{background-color: green;}
+#cell5{background-color: yellow;}
+#cell6{background-color: plum;}
+#cell7{background-color: purple;}
+#cell8{background-color: peru;}
+#cell9{background-color: orange;}
+#cell10{background-color: rebeccapurple;}
+#cell11{background-color: red;}
+#cell12{background-color: lightcoral;}
+#cell13{background-color: lightgreen;}
+#cell14{background-color: lightsalmon;}
+#cell15{background-color: lightseagreen;}
+#cell16{background-color: lightgoldenrodyellow;}
+#cell1 p{background-color: brown;}
+#cell2 p{background-color: rebeccapurple;}
+#cell3 p{background-color: pink;}
+#cell4 p{background-color: royalblue;}
+#cell9 p{background-color: violet;}
+#cell10 p{background-color: palevioletred;}
+#cell11 p{background-color: lavender;}
+#cell12 p{background-color: darkcyan;}
